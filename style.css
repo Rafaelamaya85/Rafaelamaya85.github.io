@@ -1,0 +1,22 @@
+body {
+    background-color: #F0EDEC;
+    color: #150F09;
+   font-family: "Gill Sans", "Trebuchet MS", sans-serif;
+    margin: 30px;
+}
+
+h1 {
+    color: #C69562;
+}
+
+h2 {
+    color: #A83A27;
+}
+
+p {
+    color: #150F09;
+}
+
+a {
+    color: #63442C;
+}
