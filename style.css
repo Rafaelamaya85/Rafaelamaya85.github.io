@@ -34,6 +34,17 @@ p {
     margin-bottom: 15px;
 }
 
+ul {
+    margin-bottom: 15px;
+}
+
+blockquote {
+    font-style: italic;
+    text-align: center;
+    margin-top: 20px;
+    color: #63442C;
+}
+
 a {
     color: #63442C;
     text-decoration: none;
